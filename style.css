@@ -1,0 +1,8 @@
+#reset {
+    -fx-background-color: #ffb2ae;
+    -fx-border-color: black;
+}
+
+#reset:hover {
+    -fx-background-color: #ff9a95; 
+}
